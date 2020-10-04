@@ -7,5 +7,7 @@ Eslint and prettier config from [tiaan.dev](https://tiaan.dev/posts/eslint-and-p
 ## Usage
 
 ```bash
-npx degit jcaguirre89/sapper-tailwind-starter target-directory
+npx degit jcaguirre89/sapper-tailwind-starter#main target-directory
+cd target-directory
+npm i
 ```
